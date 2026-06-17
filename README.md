@@ -14,8 +14,7 @@ skills/pov-script/
     ├── era-and-dialect.md        # 年代 / 地域 / 方言工具箱（可扩展）
     └── seedance-compliance.md    # 即梦 Seedance 2.0 过审规避规则
 
-examples/
-└── father-music-box-pov-storyboard.md   # 完整示例：《父亲的木盒》6 场 / 26 段 / ~4.7 分钟
+父亲的木盒-分镜脚本.md           # 完整示例脚本（根目录，方便直接查看）：《父亲的木盒》6 场 / 26 段 / ~4.7 分钟
 ```
 
 ## 核心设计
@@ -42,4 +41,4 @@ examples/
 2. 取设定图作参考 / 首帧，逐段把《分镜脚本》喂给 Seedance（图生视频，一致性更强）；
 3. 每段对应一个 4-15 秒有声片段，按场顺序拼接成片。
 
-详见 `examples/father-music-box-pov-storyboard.md` 的完整产出范例。
+详见根目录 `父亲的木盒-分镜脚本.md` 的完整产出范例。
